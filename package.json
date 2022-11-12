@@ -1,0 +1,19 @@
+{
+  "name": "teleport-project-react",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^3.0.24",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2",
+    "vite-plugin-jspm": "^0.1.0"
+  }
+}
